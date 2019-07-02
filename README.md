@@ -1,1 +1,1 @@
-Records some [issues](https://github.com/Gyumeijie/python.ISSUES/issues) related to python.
+Records some [issues](https://github.com/Gyumeijie/python.ISSUES/issues?q=is%3Aissue+is%3Aclosed) related to python.
